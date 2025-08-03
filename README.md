@@ -14,10 +14,6 @@ MENTOR : NEELA SANTOSH
 
 DESCRIPTION :
 
-Here’s a detailed description (approx. 600 words) about **Sentiment Analysis with Natural Language Processing (NLP)** that you can use:
-
----
-
 ### **Sentiment Analysis with NLP – A Detailed Overview**
 
 **Sentiment Analysis**, also known as opinion mining, is a subfield of Natural Language Processing (NLP) that focuses on identifying and extracting subjective information from text. Its primary objective is to determine the **emotional tone** behind a series of words, typically classifying the sentiment as **positive**, **negative**, or **neutral**. It is widely used in analyzing customer reviews, social media posts, survey responses, and more.
@@ -105,5 +101,5 @@ The model's performance is evaluated using metrics such as **accuracy**, **preci
 Sentiment Analysis using NLP provides businesses and researchers with powerful tools to understand user opinions and emotions from text. With advancements in machine learning and deep learning, models are becoming increasingly accurate, making it possible to analyze complex and nuanced sentiment with high precision. As businesses continue to leverage customer feedback for decision-making, sentiment analysis remains a critical asset in the modern data-driven landscape.
 
 ---
-
-Would you like this content to be formatted as a PDF, shortened for slides, or converted into a code-based tutorial?
+*OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/15edf5b8-2004-4e86-be84-ad62b736a8fc" />
